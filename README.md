@@ -31,25 +31,18 @@ My lab is always running. Whether it's deep-diving into OSPF routing tables in *
 
 ##  Featured Projects
 
-###  [Project 1 — Name Coming Soon](#)
-> *Short description of what this project does and what networking concepts it covers.*
+###  [Project 1 — Práctica E-Commerce: Subnetting & IP Forwarding](#)
+> *Diseño y configuración de una infraestructura de red con subnetting.*
 
 ---
 
-###  [Project 2 — Name Coming Soon](#)
-> *Short description of what this project does and what networking concepts it covers.*
+###  [Project 2 — Práctica DNS: Configuración Master / Slave](#)
+> *Configuración de servidores DNS primario y secundario.*
 
 ---
 
-###  [Project 3 — Name Coming Soon](#)
-> *Short description of what this project does and what networking concepts it covers.*
-
----
-
-##  GitHub Stats
-
-![Joan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=true&layout=compact)
+###  [Project 3 — Práctica Servidores Web: IIS + Apache2](#)
+> *Configuración de un servidor web capaz de alojar múltiples sitios virtuales con diferentes requisitos de acceso.*
 
 ---
 
