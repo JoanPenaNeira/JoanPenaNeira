@@ -56,7 +56,7 @@ My lab is always running. Whether it's deep-diving into OSPF routing tables in *
 ##  Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)](https://www.linkedin.com/in/joan-pe%C3%B1a-neira-307754358/)
 
 
 
