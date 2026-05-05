@@ -31,17 +31,17 @@ My lab is always running. Whether it's deep-diving into OSPF routing tables in *
 
 ##  Featured Projects
 
-###  [Project 1 — Práctica E-Commerce: Subnetting & IP Forwarding](#)
+###  [Project 1 — Práctica E-Commerce: Subnetting & IP Forwarding](https://github.com/JoanPenaNeira/Implementacion_de_una_Infraestructura_Network/blob/main/README.md)
 > *Diseño y configuración de una infraestructura de red con subnetting.*
 
 ---
 
-###  [Project 2 — Práctica DNS: Configuración Master / Slave](#)
+###  [Project 2 — Práctica DNS: Configuración Master / Slave](https://github.com/JoanPenaNeira/Configuracion-de-Servidores-DNS/tree/main)
 > *Configuración de servidores DNS primario y secundario.*
 
 ---
 
-###  [Project 3 — Práctica Servidores Web: IIS + Apache2](#)
+###  [Project 3 — Práctica Servidores Web: IIS + Apache2](https://github.com/JoanPenaNeira/Configuracion-http/tree/main)
 > *Configuración de un servidor web capaz de alojar múltiples sitios virtuales con diferentes requisitos de acceso.*
 
 ---
